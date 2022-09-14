@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jscott111 John Scott
-- 👀 I’m interested in Technology, the Outdoors
-- 🌱 I’m currently learning Computer Science at the University of New Brunswick
+- 👀 I’m interested in Technology, the Outdoors, Sports
+- 🌱 I’m currently working as a web developer for a start up
 - 📫 How to reach me: johnascott14@gmail.com
 
 <!---
